@@ -21,5 +21,9 @@ that to:
 unflab tree
 ```
 
+And, if you're not a fan of running unknown scripts, all the packages
+are available for download as `.tgz` files [on the _Releases_ page](https://github.com/unflab-app/unflab/releases)
+that you can download and [install manually](https://unflab.app/#installing-manually).
+
 No Homebrew. No Xcode. No runtime dependencies. All packages need to
 work on a modern, freshly-installed Mac.
